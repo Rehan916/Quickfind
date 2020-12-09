@@ -59,6 +59,6 @@ public class WeightedQuickUnion{
          	 uf.union(p, q);
          	 System.out.println(p + " " + q); 
          }
-         System.out.println(uf.count() + "components");
+         System.out.println(uf.count() + "Components");
 	}
 }
